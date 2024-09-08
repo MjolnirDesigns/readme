@@ -2,32 +2,107 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@layer base {
+    body {
+        @apply font-primary bg-primary text-white leading-loose;
+    }
+    .h1 {
+        @apply text-[32] xl:text-[42px] leading-[1.1] font-semibold;
+    }
+    .h2 {
+        @apply text-[24] xl:text-[36px] leading-[1.1] font-semibold;
+    }
+    .h3 {
+        @apply text-[18] xl:text-[30px] leading-[1.1] font-semibold;
+    }
+
+
+.text-outline {
+    -webkit-text-stroke: 1px #ffffff
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+.text-outline-hover {
+    -webkit-text-stroke: 1px #ff9900  /* green accent is 00ff99 */
+}
+
+.group:hover .text-color{
+  -webkit-text-stroke-color: #ff9900; /* Adjust this according to how your outline is styled */
+}
+
+/* .icon {
+    font-size: 2rem; /* or whatever size you want 
+    color: #ff9900;
+  }  */
+
+  .grid-icons {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 1px;
+    grid-auto-rows: minmax(100px, auto); /* Adjust height as needed */
+    
+    @media (min-width: 640px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  
+    @media (min-width: 1024px) {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  
+    /* Center items within grid cells */
+    justify-items: center;
+    align-items: center;
   }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  
+  .grid-icons li {
+    display: flex;
+    background-color: #232329;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80%; /* Ensure full height of grid cell */
+    width: 70%; /* Ensure full width of grid cell */
+    border-radius: .5rem;
   }
+
+  .photo-container {
+    width: 100%;
+    max-width: 300px; /* Adjust as needed */
+    aspect-ratio: 3 / 4; /* This maintains the aspect ratio */
+  }
+  
+  .photo-container img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-container {
+    display: flex;
+    justify-content: right;
+  }
+
+  .slider-btn {
+    color: #ff9900; /* Orange color */
+  }
+
+  .left-btn {
+    position: absolute;
+    left: 10px; /* Adjust as necessary */
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .right-btn {
+    position: absolute;
+    right: 10px; /* Adjust as necessary */
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .fa-map-marker-alt {
+    width: 512px; /* or whatever size you want */
+    height: 512px;
+  }
+
+
 }
