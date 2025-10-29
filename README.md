@@ -1,7 +1,17 @@
 # readme
 
 # 💫 About Me:
-Good Day Creators and Devs. I'm Chris the Founder of MJÖLNIR, a digital design studio located in Tampa, FL. I'm currently developing several new projects.<br>My primary project is MJÖLNIR, aka MjolnirDesignStudios.com, an AI-based design company that helps startups build. MJÖLNIR is currently working on a number of new and exciting projects.<br> BitcoinWizerd, an educational and fun AI Agent/Avatar that help businesses and individuals understand the Bitcoin and Crypto ecosystems. We offer user a suite of Cyber Punk components for web and web3 development and educational information and tools for Bitcoiner Plebs and Maxis alike.<br>Next up is RetroXRP. GenXers can finally enjoy their favorite arcade and concole classic games on the RetroXRP gaming platform build natively on the XRP Ledger blockchain for a fun new take on digital arcade gaming on mobile devices. We have 2 exclusive titles under development that will be announced over the next few months.<br>Lastly, we are currently developing a top secret engineering project with a product offering using advanced V2Txt AI agents.<br>As we continue to build, MJÖLNIR will become more involved in Bitcoin mining and working on an advanced suite of animations, components, and other assets for web3 companies.<br>There's endless possibilities, so hire MJÖLNIR "A Tool to Build!"<br>
+Good Day Creators and Devs. 
+
+I'm Chris the Founder of MJÖLNIR, a digital design studio located in Tampa, FL. I'm currently developing several new projects.
+
+My primary project is MJÖLNIR, aka MjolnirDesignStudios.com, an AI-based design company that helps startups build. MJÖLNIR is currently working on a number of new and exciting projects.
+
+BitcoinWizerd, an educational and fun AI Agent/Avatar that help businesses and individuals understand the Bitcoin and Crypto ecosystems. We offer user a suite of Cyber Punk components for web and web3 development and educational information and tools for Bitcoiner Plebs and Maxis alike.
+
+Next up is RetroXRP. GenXers can finally enjoy their favorite arcade and concole classic games on the RetroXRP gaming platform build natively on the XRP Ledger blockchain for a fun new take on digital arcade gaming on mobile devices. We have 2 exclusive titles under development that will be announced over the next few months.
+
+Lastly, we are currently developing a top secret engineering project with a product offering using advanced V2Txt AI agents.<br>As we continue to build, MJÖLNIR will become more involved in Bitcoin mining and working on an advanced suite of animations, components, and other assets for web3 companies.<br>There's endless possibilities, so hire MJÖLNIR "A Tool to Build!"<br>
 
 
 ## 🌐 Socials:
