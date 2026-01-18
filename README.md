@@ -16,5 +16,5 @@ Tampa, Florida • Creative Design & Engineering Studio
 
 
 
-mjolnirdesignstudios.com
-chris@mjolnirdesignstudios.com
+mjolnirdesignstudios.com</br>
+contact@mjolnirdesignstudios.com
