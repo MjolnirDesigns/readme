@@ -1,36 +1,21 @@
 # readme
 
-# 💫 About Me:
-Good Day Creators and Devs. 
+# Mjolnir Design Studios  
+**Tampa, FL • Engineering & Creative Design Studio**
 
-I'm Chris the Founder of MJÖLNIR, a digital design studio located in Tampa, FL. I'm currently developing several new projects.
+We build systems that don’t break.
 
-My primary project is MJÖLNIR, aka MjolnirDesignStudios.com, an AI-based design company that helps startups build. MJÖLNIR is currently working on a number of new and exciting projects.
+| Core Tech | Frontend | AI/ML | Blockchain | Tools |
+|---------|--------|-------|------------|-------|
+| ![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) | ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) | ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) | ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white) | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) | ![](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![](https://img.shields.io/badge/XRPL-00A4B4?style=flat&logo=xrp&logoColor=white) | ![](https://img.shields.io/badge/Ollama-FF0000?style=flat&logo=ollama&logoColor=white) |
+| | ![](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white) | ![](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white) |
+| | ![](https://img.shields.io/badge/Three.js-000?style=flat&logo=three.js&logoColor=white) | | | |
 
-BitcoinWizerd, an educational and fun AI Agent/Avatar that help businesses and individuals understand the Bitcoin and Crypto ecosystems. We offer user a suite of Cyber Punk components for web and web3 development and educational information and tools for Bitcoiner Plebs and Maxis alike.
+> Everything starts here.  
+> Everything scales here.
 
-Next up is RetroXRP. GenXers can finally enjoy their favorite arcade and concole classic games on the RetroXRP gaming platform build natively on the XRP Ledger blockchain for a fun new take on digital arcade gaming on mobile devices. We have 2 exclusive titles under development that will be announced over the next few months.
-
-Lastly, we are currently developing a top secret engineering project with a product offering using advanced V2Txt AI agents.<br>As we continue to build, MJÖLNIR will become more involved in Bitcoin mining and working on an advanced suite of animations, components, and other assets for web3 companies.<br>There's endless possibilities, so hire MJÖLNIR "A Tool to Build!"<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AlphaTrader84) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlphaTrader84) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlphaTrader84&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlphaTrader84&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaTrader84&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlphaTrader84&theme=cobalt&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlphaTrader84&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AlphaTrader84&icon=8&color=12)](https://visitcount.itsvg.in)
+🌐 mjolnirdesignstudios.com  
+📨 chris@mjolnirdesignstudios.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
